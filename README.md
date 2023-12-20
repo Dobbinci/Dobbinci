@@ -5,6 +5,9 @@
 
 <a href="[클릭시 이동할 링크](https://www.instagram.com/gentianaceaen?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dobbinci)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Dobbinci/Dobbinci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
