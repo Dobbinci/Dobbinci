@@ -1,7 +1,6 @@
 
 ## HI, My name is Dabin!
-### Hola, me llamo Dabin!
-#### 안녕하세요, 저는 이다빈이라고 해요!
+
 
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>](https://www.instagram.com/gentianaceaen?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.instagram.com/gentianaceaen?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr)
