@@ -1,7 +1,7 @@
 
 ### Hi, My name is Dabin!
 
-#### Hola, me llamo Dabin!
+#### Hola, Me llamo Dabin!
 
 ##### 안녕하세요, 저는 다빈이라고 해요!            
 
