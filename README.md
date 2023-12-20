@@ -18,7 +18,7 @@ I'm Dabin Lee, a passionate software developer with a keen interest in web devel
 
 Here are some of the technologies I work with:
 
-- **Languages**: Java, Python, C, C++, Html, Css, JavaScript, [<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>], etc.
+- **Languages**: Java, <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>, C, C++, Html, Css, JavaScript, <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>, etc.
 - **Frameworks**: SprinBoot, Flask, etc.
 - **Tools**: Docker, Git, AWS, etc.
 - **Databases**: MySQL, MongoDB, etc.
