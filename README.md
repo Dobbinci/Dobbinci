@@ -1,10 +1,7 @@
 ### Hi there 👋
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
 
-<a href="[클릭시 이동할 링크](https://www.instagram.com/gentianaceaen?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr)" target="_blank"><img src="https://img.shields.io/badge/Hola-FFEE00?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
-
-<a href="[버튼을 눌렀을 때 이동할 링크](https://tcrn.ch/48qLjMY)" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=#E4405F"/></a>
+<a href="[클릭시 이동할 링크](https://www.instagram.com/gentianaceaen?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr)" target="_blank"><img src="https://img.shields.io/badge/Hola-FFEE00?style=flat-square&logo=Insatgram&logoColor=white"/></a>
 
 <!--
 **Dobbinci/Dobbinci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
