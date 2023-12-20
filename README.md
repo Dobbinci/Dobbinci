@@ -11,13 +11,13 @@
 
 
 ---
-:couple_with_heart:
+
 #### About Me
 
 I'm Dabin Lee, a passionate software developer with a keen interest in web development and AI. 
-- I love solving problems and creating impactful solutions.
-- In my free time, I enjoy to play piano and cooking.
-- I like English and Español
+- :pencil: I love solving problems and creating impactful solutions.
+- :musical_keyboard: In my free time, I enjoy to play piano and cooking.
+- :globe_with_meridians: I like English and Español
 
 ---
 
