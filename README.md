@@ -3,7 +3,7 @@
 
 #### Hola, me llamo Dabin!
 
-##### 안녕하세요, 저는 이다빈이라고 해요!            
+##### 안녕하세요, 저는 다빈이라고 해요!            
 
 <img src="https://github.com/Dobbinci/Dobbinci/assets/95361587/833fdcd3-676d-41b8-b913-54a61c7aad23" width=20% height=20%/>
 
