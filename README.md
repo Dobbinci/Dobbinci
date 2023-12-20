@@ -1,7 +1,7 @@
 ### Hi there 👋
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
 
-![Static Badge](https://img.shields.io/badge/my%20name)
+https://img.shields.io/badge/just%20the%20message-8A2BE2
 
 
 <a href="[버튼을 눌렀을 때 이동할 링크](https://tcrn.ch/48qLjMY)" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=#E4405F"/></a>
