@@ -1,9 +1,9 @@
 
 ## HI, My name is Dabin!
 
-### Hola, me llamo Dabin!
+## Hola, me llamo Dabin!
 
-#### 안녕하세요, 저는 이다빈이라고 해요!            
+## 안녕하세요, 저는 이다빈이라고 해요!            
 
 <img src="https://github.com/Dobbinci/Dobbinci/assets/95361587/833fdcd3-676d-41b8-b913-54a61c7aad23" width=20% height=20%/>
 
@@ -14,7 +14,10 @@
 
 #### About Me
 
-I'm Dabin Lee, a passionate software developer with a keen interest in web development and AI. I love solving problems and creating impactful solutions. In my free time, I enjoy to play piano and cooking.
+I'm Dabin Lee, a passionate software developer with a keen interest in web development and AI. 
+- I love solving problems and creating impactful solutions.
+- In my free time, I enjoy to play piano and cooking.
+- I like English and Español
 
 ---
 
