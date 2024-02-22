@@ -15,7 +15,7 @@
 
 #### :stuck_out_tongue_closed_eyes: About Me
 
-I'm Dabin Lee, a passionate software developer with a keen interest in web development and AI. 
+I'm Dabin Lee, a passionate software developer with a keen interest in app/web development and AI. 
 - :pencil: I love solving problems and creating impactful solutions.
 - :musical_keyboard: In my free time, I enjoy to play the piano and cooking.
 - :globe_with_meridians: I like English and Español
